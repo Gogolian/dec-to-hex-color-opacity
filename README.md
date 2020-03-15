@@ -9,7 +9,7 @@ No need to try and calculate hex opacity in your head anymore!
 
 ## Demo
 
-![demo](demo.gif)
+![demo](demo1.gif)
 
 
 https://github.com/Gogolian/dec-to-hex-color-opacity
