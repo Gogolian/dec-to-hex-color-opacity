@@ -3,7 +3,7 @@
 	"displayName": "Dec To Hex Color Opacity",
 	"publisher": "gogolian",
 	"description": "VS code extension that allows you to type hex color opacity as decimal fraction",
-	"version": "0.4.0",
+	"version": "0.4.1",
 	"engines": {
 		"vscode": "^1.43.0"
 	},
