@@ -1,6 +1,6 @@
 {
-	"name": "Dec To Hex Color Opacity",
-	"displayName": "dec-to-hex-color-opacity",
+	"name": "dec-to-hex-color-opacity",
+	"displayName": "Dec To Hex Color Opacity",
 	"publisher": "gogolian",
 	"description": "VS code extension that allows you to type hex color opacity as decimal fraction",
 	"version": "0.1.0",
