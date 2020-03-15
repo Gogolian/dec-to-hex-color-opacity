@@ -11,4 +11,4 @@ No need to try and calculate hex opacity in your head anymore!
 
 ![demo](demo.gif)
 
-Oh! By the way! We're developers looking for some fair work. contact@wzyk.io
+Oh! By the way! We're developers looking for some fair work. contact@wzyk.iovs
