@@ -10,7 +10,7 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/prettier/prettier-vscode.git"
-	  },
+	},
 	"categories": [
 		"Other"
 	],
@@ -25,19 +25,19 @@
 				"title": "dec-to-hex-color-opacity"
 			}
 		],
-        "configuration": {
-            "title": "dec-to-hex-color-opacity",
-            "properties": {
-                "dec-to-hex-color-opacity.autoLaunch": {
-                    "type": "boolean",
-                    "default": true,
-                    "description": "Automatically launch dec-to-hex-color-opacity when color edited"
-                },
-                "dec-to-hex-color-opacity.autoLaunchDelay": {
-                    "type": "number",
-                    "default": 100,
-                    "description": "delay before auto launch"
-                }
+		"configuration": {
+			"title": "dec-to-hex-color-opacity",
+			"properties": {
+				"dec-to-hex-color-opacity.autoLaunch": {
+					"type": "boolean",
+					"default": true,
+					"description": "Automatically launch dec-to-hex-color-opacity when color edited"
+				},
+				"dec-to-hex-color-opacity.autoLaunchDelay": {
+					"type": "number",
+					"default": 100,
+					"description": "delay before auto launch"
+				}
 			}
 		}
 	},
@@ -61,5 +61,8 @@
 		"mocha": "^7.0.1",
 		"typescript": "^3.7.5",
 		"vscode-test": "^1.3.0"
+	},
+	"dependencies": {
+		"minimist": "^1.2.5"
 	}
 }
